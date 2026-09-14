@@ -12,7 +12,6 @@ ads.yahoo.com
 gemini.yahoo.com
 adserver.yahoo.com
 ads.twitter.com
-analytics.twitter.com
 ads.linkedin.com
 ads.pinterest.com
 ads.rubiconproject.com
