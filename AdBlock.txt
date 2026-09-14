@@ -11,8 +11,6 @@ securepubads.g.doubleclick.net
 ads.yahoo.com
 gemini.yahoo.com
 adserver.yahoo.com
-ads.twitter.com
-ads.linkedin.com
 ads.pinterest.com
 ads.rubiconproject.com
 rubiconproject.com
